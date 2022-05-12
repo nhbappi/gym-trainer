@@ -1,7 +1,6 @@
 # Welcome to Alex Stone Gym Care
 
 ## Live SIte: https://personal-gym-trainer-c5484.web.app/
-## Code-Site: https://github.com/programming-hero-web-course-4/independent-service-provider-nhbappi
 
 
 ## Hello Dear People
