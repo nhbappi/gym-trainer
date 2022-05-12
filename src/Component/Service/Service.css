@@ -1,0 +1,27 @@
+.service{
+    overflow: hidden;
+}
+
+.service img{
+        transition: 0.7s all ease-in-out;
+        
+}
+.service img:hover{
+    transform: scale(1.2);
+}
+.card_body> a{
+    color: #00E5CC;
+}
+.link-button{
+    text-decoration: none;
+    padding: 5px 20px;
+    border-radius: 5px;
+    border: 2px solid #00E5CC;
+    margin-bottom: 30px !important;
+    font-weight: 700;
+}
+
+.link-button:hover{
+    color: #45cfd4 !important;
+    border: 2px solid #c1d445 !important;
+}

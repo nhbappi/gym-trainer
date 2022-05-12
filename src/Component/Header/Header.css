@@ -1,0 +1,42 @@
+.carousel-1{
+    height: 550px;
+    width: 100%;
+    
+}
+
+
+
+
+.nav-item{
+    font-size: 22px;
+    color: rgb(59, 56, 56);
+    font-family: inherit ;
+    font-weight: 500;
+    
+}
+
+.nav-item1{
+    font-size: 22px;
+    color: #c1d445 !important;
+    font-family: inherit ;
+    font-weight: 500;
+}
+.nav-item:hover{
+    color: #c1d445 !important;
+}
+
+.user_display_name{
+    color: rgb(21, 45, 182);
+    font-size: 15px;
+    margin-right: 10px;
+    margin-bottom: -2px;
+    font-weight: 600;
+
+}
+@media only screen and (max-width: 600px) {
+    .carousel-1{
+        height: 400px;
+        width: 100%;
+        
+    }
+  }

@@ -1,0 +1,95 @@
+
+.app-name{
+    font-size: 65px;
+}
+.app-title{
+    color: #c1d445 !important;
+}
+.img-part{
+    width: 450px;
+    
+
+}
+
+
+.carousel-control-next-icon, .carousel-control-prev-icon{
+    visibility:hidden;
+  }
+  .carousel-indicators li
+  {
+    display: none;
+  }
+
+.carousel-text{
+    font-size: 55px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    font-family: inherit;
+    margin-bottom: 85px;
+    
+}
+.carousel-button{
+    background-color: #c1d445;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    font-size: xx-large;
+    font-weight: 500;
+    border-radius: 10px;
+    margin-bottom: 145px;
+}
+
+.btn-1{
+    padding: 5px;
+    
+    
+    border-radius: 5px;
+    background-color: #c1d445;
+    
+}
+.btn-1:hover{
+    background-color: aliceblue;
+}
+.btn-2{
+    padding: 6px;
+    border-radius: 5px;
+    background-color: aliceblue;
+    
+}
+.btn-2:hover{
+    background-color: #c1d445;
+}
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+    .img-part{
+        width: 350px;
+       
+        
+    
+    }
+    .app-name{
+        font-size: 35px;
+    }
+    .carousel-text{
+        font-size: 25px;
+        color: rgb(255, 255, 255);
+        font-weight: 700;
+        
+    }
+    .carousel-button{
+        background-color: #c1d445;
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+        padding: 10px;
+        border-radius: 10px;
+       
+       
+       
+        
+    }
+  }
