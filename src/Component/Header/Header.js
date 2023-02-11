@@ -39,7 +39,7 @@ const Header = () => {
               Services
             </Nav.Link>
             <Nav.Link className="nav-item" as={HashLink} to="/about">
-              AboutMe
+              AboutUs
             </Nav.Link>
             <Nav.Link className="nav-item" as={HashLink} to="/contacts">
               Contact
